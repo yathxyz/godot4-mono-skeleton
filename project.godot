@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="godot4-skeletoh"
-config/features=PackedStringArray("4.2", "Forward Plus")
+config/name="godot4-skeleton"
+config/features=PackedStringArray("4.1", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
